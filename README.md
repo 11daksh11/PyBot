@@ -1,2 +1,5 @@
 # PyBot
-A Pyhton based Speech to text and Text to speech bot to perform some basic functuon on your Operating System
+A Python Bot which runs some basic commands on when we speak using following Modules:
+
+- [pyttsx3]
+- [speachRecognition]
